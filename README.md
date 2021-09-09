@@ -1,2 +1,1 @@
-# DecisionTreeClassifier
-A decision tree classifier trained to differentiate between 5400 blue +'s and 5400 red x's.
+Midterm project from SUNY Fredonia's CSIT-496: Machine Learning (Fall 2021)
